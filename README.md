@@ -135,7 +135,9 @@ int main() {
 ```
 
 ## OUTPUT
-![Screenshot 2025-05-17 210748](https://github.com/user-attachments/assets/f4814bd6-2397-455d-a502-87f0ce541f6a)
+
+<img width="1235" height="579" alt="Screenshot 2025-11-20 152234" src="https://github.com/user-attachments/assets/f88ff6b9-f90e-4a96-b554-a645be75e7cf" />
+
 
 
 
